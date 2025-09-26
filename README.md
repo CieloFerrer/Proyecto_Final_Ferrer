@@ -1,4 +1,4 @@
-# Proyecto Final Ferrer María del Cielo | Creación de Contenido con IA para S2GP
+# Proyecto Final de Ferrer María del Cielo | Creación de Contenido con IA para S2GP
 
 
 **Resumen:**
