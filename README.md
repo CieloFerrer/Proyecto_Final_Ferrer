@@ -1,4 +1,4 @@
-# Proyecto Final de Ferrer María del Cielo | Creación de Contenido con IA para S2GP
+# Proyecto Final de Ferrer María del Cielo | Idea Alquímica: Tejiendo el Futuro con Prompt Engineering
 
 
 **Resumen:**
@@ -9,7 +9,7 @@ La solución propuesta es utilizar la Inteligencia Artificial Generativa y la di
 
 **Introducción:**
 
-Nombre del Proyecto: Idea Alquímica: Tejiendo el Futuro con Prompt Engineering
+Nombre del Proyecto: Creación de Contenido con IA para S2GP
 
 **Presentación del problema a abordar:**
 
